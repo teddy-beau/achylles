@@ -8,7 +8,16 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 
 ## Screenshots
 
+<div align="center">
 <img
+		width="210"
+		alt="Capture 1"
+		src="./_preview/signup.png">
+		<img
+		width="210"
+		alt="Capture 1"
+		src="./_preview/search-3.png">
+		<img
 		width="210"
 		alt="Capture 1"
 		src="./_preview/results.png">
@@ -24,40 +33,29 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 		width="210"
 		alt="Capture 1"
 		src="./_preview/chat.png">
+		
+</div>
 
-## Installation and usage
+## Features
 
-### Prerequisites
+-  Login and signup with account verification by email
+-  Multi-step search form (budget, location...)
+-  Geolocated results in a Tinder like format with the possibility to swipe on the featured programs
+-  Saving of liked programs and possibility to contact Achylles via the app
+-  Emailing system notifying the user or Achylles at each important step
+-  Program and user management (CRUD) from a web-based Back-Office
+-  Push-notifications informing the user when new programs are added
+-  Settings page to update user information
 
-Be sure you have installed all dependencies and applications to run Expo CLI project on your computer : [Setting up the development environment](https://reactnative.dev/docs/environment-setup).
+## Stack
 
-Adapted for iOS and Android usage.
+Mobile app built with [React Native](https://reactnative.dev/) and [Expo](https://expo.io/).
 
-### Running the project
+### Project architecture
 
-Clone this repository :
-
-```
-git clone https://github.com/AchyllesGit/Achylles-App.git
-cd Achylles-App
-```
-
-Install packages :
-
-```
-yarn install
-expo install
-```
-
-When installation is complete, run :
-
-```
-expo start
-```
-
-### Built with
-
--  [React Native](https://reactnative.dev/) with [Expo](https://expo.io/)
+<img
+		alt="Project architecture"
+		src="./_preview/architecture.png">
 
 ### Main packages/features used
 
@@ -73,5 +71,3 @@ expo start
 -  **Samy Safsaf** - [GitHub Profile](https://github.com/SamySafsaf)
 -  **Thomas Bonte** - [GitHub Profile](https://github.com/Thmsbonte)
 -  **Teddy Beau** - [GitHub Profile](https://github.com/teddy-beau)
-
-<!-- See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. -->

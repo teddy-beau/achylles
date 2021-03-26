@@ -11,27 +11,27 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 <div align="center">
 <img
 		width="210"
-		alt="Capture 1"
+		alt="Achylles App Screenshot"
 		src="./_preview/signup.png">
 		<img
 		width="210"
-		alt="Capture 1"
+		alt="Achylles App Screenshot"
 		src="./_preview/search-3.png">
 		<img
 		width="210"
-		alt="Capture 1"
+		alt="Achylles App Screenshot"
 		src="./_preview/results.png">
 <img
 		width="210"
-		alt="Capture 1"
+		alt="Achylles App Screenshot"
 		src="./_preview/details.png">
 <img
 		width="210"
-		alt="Capture 1"
+		alt="Achylles App Screenshot"
 		src="./_preview/saved.png">
 <img
 		width="210"
-		alt="Capture 1"
+		alt="Achylles App Screenshot"
 		src="./_preview/chat.png">
 		<img
 		width="700"

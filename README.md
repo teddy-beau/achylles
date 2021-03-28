@@ -9,15 +9,18 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 ## Screenshots
 
 <div align="center">
+
+**User App**
+
 <img
 		width="210"
 		alt="Achylles App Screenshot"
 		src="./_preview/signup.png">
-		<img
+<img
 		width="210"
 		alt="Achylles App Screenshot"
 		src="./_preview/search-3.png">
-		<img
+<img
 		width="210"
 		alt="Achylles App Screenshot"
 		src="./_preview/results.png">
@@ -33,13 +36,19 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 		width="210"
 		alt="Achylles App Screenshot"
 		src="./_preview/chat.png">
-		<img
+<br />
+<br />
+
+**Admin Backoffice**
+
+<img
 		width="700"
 		alt="Forest Admin back office"
 		src="./_preview/forest-1.png">
+
 </div>
 
-## Features
+## Main Features
 
 -  Login and signup with account verification by email
 -  Multi-step search form (budget, location...)
@@ -50,7 +59,7 @@ MVP of a mobile application for French real estate company Achylles. With a mult
 -  Push-notifications informing the user when new programs are added
 -  Settings page to update user information
 
-## Stack
+## Stack & Dependencies
 
 Mobile app built with [React Native](https://reactnative.dev/) and [Expo](https://expo.io/).
 
@@ -60,13 +69,23 @@ Mobile app built with [React Native](https://reactnative.dev/) and [Expo](https:
 		alt="Project architecture"
 		src="./_preview/architecture.png">
 
-### Main packages/features used
+### Main dependencies
+
+#### Frontend
 
 -  [react-native-swiper](https://github.com/leecade/react-native-swiper)
 -  [mapbox](https://www.mapbox.com/)
 -  [expo notifications](https://docs.expo.io/push-notifications/overview/)
 -  [mapview](https://github.com/react-native-maps/react-native-maps)
 -  [react-native-swiper-flatlist](https://www.npmjs.com/package/react-native-swiper-flatlist)
+
+#### Backend
+
+-  cloudinary
+-  express
+-  forest admin
+-  mongoose
+-  nodemailer
 
 ## Contributors
 
